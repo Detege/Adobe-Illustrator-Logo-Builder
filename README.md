@@ -9,3 +9,5 @@ The Script will output every posible file format that could be needed for any pr
 
 
 This was my first JavaScript project after completing the course from MDN web docs. It was used to generate 60+ sub-product logos, saving a lot of resources to the Marketing Design Team during the re-branding of the company.
+
+I learnt the basics of programming, how an Adobe Illustrator document is structured, and the ways in which it can be built and modiified.
